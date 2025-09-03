@@ -1,2 +1,20 @@
-ec2-crawler-key.pem
+# PHP
+vendor/
+*.log
+*.cache
+*.tmp
+*.bak
+*.swp
+
+# IDE (VS Code)
+.vscode/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Project-specific
 documents/
+
+# Security certificates
+*.pem
