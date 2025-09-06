@@ -18,3 +18,5 @@ documents/
 
 # Security certificates
 *.pem
+
+index_storage/
